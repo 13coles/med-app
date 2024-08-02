@@ -6,6 +6,8 @@ A web-based system for tracking the inventory and distribution of medical suppli
 
 - [Description](#description)
 - [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Languages and Technologies](#languages-and-technologies)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -15,30 +17,40 @@ This system helps manage medical supply inventories and track their distribution
 
 ## Features
 
-- Inventory management
-- Supply distribution tracking
-- Supplier management
-- Reporting and analytics
-- User authentication and authorization
-- Responsive dashboard using AdminLTE
+- **Inventory Management**: Track and manage stock levels.
+- **Supply Distribution Tracking**: Monitor the distribution of medical supplies.
+- **Supplier Management**: Manage supplier information.
+- **Reporting and Analytics**: Generate reports and analyze data.
+- **User Authentication and Authorization**: Secure access control for different users.
+- **Responsive Dashboard**: User-friendly interface using AdminLTE.
 
 ### Prerequisites
 
 - PHP 8.2.4
 - Composer
-- Web server (e.g., Apache, Mysql)
+- Web server (e.g., Apache, Nginx)
 - MySQL or another compatible database
 
+## Languages and Technologies
+
+- **PHP**: Server-side scripting language used for backend development.
+- **HTML**: Standard markup language for creating web pages.
+- **CSS**: Cascading Style Sheets for styling web pages.
+- **JavaScript**: Programming language used for client-side scripting.
+- **jQuery**: Fast, small, and feature-rich JavaScript library.
+- **Bootstrap**: Framework for responsive design and styling.
+- **AdminLTE**: Dashboard interface library.
 
 ## Contact
 
-Eric John Coles - [Dev_eric](https://x.com/x_jstme)) - colesericjohn@gmail.com
+Eric John Coles - [Dev_eric](https://x.com/x_jstme) - colesericjohn@gmail.com
 
-Project Link: [(https://github.com/13coles/med-app)]
+Project Link: [GitHub Repository](https://github.com/13coles/med-app)
 
 ## Acknowledgements
 
-- [AdminLTE](https://adminlte.io/)
-- [Composer](https://getcomposer.org/)
-- [PHP](https://www.php.net/)
-
+- [AdminLTE](https://adminlte.io/) - Dashboard interface library.
+- [Composer](https://getcomposer.org/) - Dependency manager for PHP.
+- [PHP](https://www.php.net/) - Server-side scripting language used for backend development.
+- [Bootstrap](https://getbootstrap.com/) - Framework for responsive design and styling.
+- [jQuery](https://jquery.com/) - Fast, small, and feature-rich JavaScript library.
